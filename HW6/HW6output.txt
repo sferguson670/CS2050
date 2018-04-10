@@ -1,0 +1,74 @@
+This program will create a random assorted of [int, double, strings] based off user input.
+Choose what to be sorted: Integer, Double, String (Type int, double, or string)
+int
+Type in an integer to be considered the SIZE (# of integers in the array to sort)
+10
+Type in an integer to be considered the BIG (what will be the biggest number that the random numbers come from)
+100
+This is the unsorted list: [45, 90, 57, 16, 76, 99, 61, 24, 5, 34]
+This is the sorted list: [5, 16, 24, 34, 45, 57, 61, 76, 90, 99]
+--
+This program will create a random assorted of [int, double, strings] based off user input.
+Choose what to be sorted: Integer, Double, String (Type int, double, or string)
+int
+Type in an integer to be considered the SIZE (# of integers in the array to sort)
+134
+Type in an integer to be considered the BIG (what will be the biggest number that the random numbers come from)
+348
+This is the wall clock time for merge sort: 
+0
+This is the CPU time for merge sort: 
+94895
+This is the wall clock time for java sort: 
+0
+This is the CPU time for java sort: 
+753649
+--
+This program will create a random assorted of [int, double, strings] based off user input.
+Choose what to be sorted: Integer, Double, String (Type int, double, or string)
+double
+Type in an integer to be considered the SIZE (# of integers in the array to sort)
+10
+Type in a double to be considered the BIG (what will be the biggest number that the random numbers come from)
+100.00
+This is the unsorted list: [72.40230831682155, 63.77279189067868, 83.89224939336277, 21.33743020479717, 66.29935174247676, 95.13935871080066, 56.871448765156615, 8.028604324741107, 39.94169864199421, 2.8637414645202974]
+This is the sorted list: [2.8637414645202974, 8.028604324741107, 21.33743020479717, 39.94169864199421, 56.871448765156615, 63.77279189067868, 66.29935174247676, 72.40230831682155, 83.89224939336277, 95.13935871080066]
+--
+This program will create a random assorted of [int, double, strings] based off user input.
+Choose what to be sorted: Integer, Double, String (Type int, double, or string)
+double
+Type in an integer to be considered the SIZE (# of integers in the array to sort)
+34
+Type in a double to be considered the BIG (what will be the biggest number that the random numbers come from)
+3813.31
+This is the wall clock time for merge sort: 
+1
+This is the CPU time for merge sort: 
+324120
+This is the wall clock time for java sort: 
+1
+This is the CPU time for java sort: 
+1199732
+--
+This program will create a random assorted of [int, double, strings] based off user input.
+Choose what to be sorted: Integer, Double, String (Type int, double, or string)
+string
+Type in an integer to be considered the SIZE (# of integers in the array to sort)
+10
+This is the unsorted list: [89v4JXu, CCy6GDR, FBwFyEL, KVI3Qh1, 09ML5UG, 3aUFBUB, pBIXnl8, l8Me6LR, JYABFTD, g9QKRVU]
+This is the sorted list: [09ML5UG, 3aUFBUB, 89v4JXu, CCy6GDR, FBwFyEL, JYABFTD, KVI3Qh1, g9QKRVU, l8Me6LR, pBIXnl8]
+--
+This program will create a random assorted of [int, double, strings] based off user input.
+Choose what to be sorted: Integer, Double, String (Type int, double, or string)
+string
+Type in an integer to be considered the SIZE (# of integers in the array to sort)
+3483
+This is the wall clock time for merge sort: 
+1
+This is the CPU time for merge sort: 
+2274
+This is the wall clock time for java sort: 
+4
+This is the CPU time for java sort: 
+4011619
+--
