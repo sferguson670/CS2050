@@ -1,0 +1,14 @@
+Time Log for HW5
+
+Reviewing Assignment:
+30 min
+Brainstorming on Paper:
+30 min
+Reviewing CS1 Notes:
+10 min
+Creating Demo Codes:
+1 hr (revising insertion sort)
+Coding:
+5 hrs
+Documentation:
+5 min

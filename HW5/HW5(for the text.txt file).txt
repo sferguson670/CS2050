@@ -1,0 +1,12 @@
+a 	2
+also 	1
+assignment 	1
+for 	1
+four 	1
+hello 	1
+hi 	1
+homework 	1
+is 	2
+test 	2
+there 	1
+this 	2
