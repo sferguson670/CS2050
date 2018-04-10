@@ -1,0 +1,27 @@
+Test Output for test.txt:
+Enter in the pathway to the file that is to be sorted:
+/Users/sarahdee/IdeaProjects/HW4/src/test.txt
+Filename: /Users/sarahdee/IdeaProjects/HW4/src/test.txt
+Number of words: 16
+Wall Clock: 
+	Bubble sort: 0
+	Internal sort: 1
+CPU Time: 
+	Bubble sort: 32754
+	Internal sort: 5250
+This is the bubble sort:
+[Hello, Hi, This, a, a, also, assignment, for, four, homework, is, is, test, test, there, this]
+This is the java sort:
+[Hello, Hi, This, a, a, also, assignment, for, four, homework, is, is, test, test, there, this]
+
+Test Output for HW4.txt:
+Enter in the pathway to the file that is to be sorted:
+/Users/sarahdee/IdeaProjects/HW4/src/HW4.txt
+Filename: /Users/sarahdee/IdeaProjects/HW4/src/HW4.txt
+Number of words: 138984
+Wall Clock: 
+	Bubble sort: 219433
+	Internal sort: 13
+CPU Time: 
+	Bubble sort: 235049399535
+	Internal sort: 5822870
