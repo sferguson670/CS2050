@@ -1,0 +1,37 @@
+Pick an option to do: (Type the number choice)
+1. Import the data
+2. Display list of all countries that border Germany
+3. Display list of all countries that have a population greater than 10 million.
+4. Display list of countries that border Germany and have a population greater than 10 million.
+5. Quit the program.
+1
+Data successfully imported.
+2
+These countries border Germany: 
+Austria
+Belgium
+Czech
+Denmark
+France
+Luxembourg
+Netherlands
+Poland
+3
+These countries have a population greater than 10 million: 
+Germany
+Netherlands
+Belgium
+Poland
+Czech
+France
+4
+These countries border Germany and have a population greater than 10 million: 
+Belgium
+Czech
+France
+Netherlands
+Poland
+Netherlands
+5
+
+Process finished with exit code 0

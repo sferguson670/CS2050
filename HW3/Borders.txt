@@ -1,0 +1,10 @@
+Germany,Austria
+Germany,Belgium
+Germany,Czech
+Germany,Denmark
+Germany,France
+Germany,Luxembourg
+Germany,Netherlands
+Germany,Poland
+Netherlands,Belgium
+Netherlands,Germany
