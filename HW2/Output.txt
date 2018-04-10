@@ -1,0 +1,17 @@
+    //for linked list
+    public String toString()
+    //toString method
+    {
+        String list = "";
+        for (Node temp = myHead; temp != null; temp = temp.getNext())
+            list+=(" " + temp.getMyValue());
+        return list;
+    }
+
+    public void addFront(Countries value)
+    //insert value at front
+    {
+        Node newNode = new Node(value, myHead);
+        myHead = newNode;
+        mySize++;
+    }
