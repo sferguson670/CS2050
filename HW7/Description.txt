@@ -1,0 +1,12 @@
+Sarah Ferguson
+HW7 -> Do It Yourself Hashtables
+November 2017
+
+Since the number of unique words was about 13894, I decided to use a load factor of .75
+
+So; 13894/M = 2.50 therefore M, the size of the hash table, was rounded up to be 5558.
+However since it is not prime, the next prime number will be 5563. So this will be the array size for "HW5.txt".
+
+The hashing function will be using the mod function so it will take the ASCII as an int and will perform % 5563. 
+
+For part two, I chose 12000 as the initial size and 75% as the initial fill ratio. I chose 1000 because the hash table would have to resize itself in order to work with the default .75 fill ratio.

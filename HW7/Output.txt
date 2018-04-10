@@ -1,0 +1,11 @@
+This program will create a hash table in accordance with a text file
+A prime number is needed to create the array size for the hash table.
+Enter in a prime number. This number will be tested.
+5558
+Incorrect. The next highest prime number will be evaluated for you. This will be used for the array size of the hash table.
+This is the next highest prime number: 5563
+The program needs a file to be evaluated. Only the unique words with no special characters will be used for the hash table.
+Enter in the pathway of the file:
+/Users/sarahdee/IdeaProjects/HW7/src/HW5.txt
+The biggest bucket in the hashtable is index 3269
+The number of elements in the linked list at that index is 997
